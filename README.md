@@ -1,11 +1,14 @@
 # Laboratorio: Operaciones Aritméticas y de Cadena (Unidad 8)
 
 ## Información del Estudiante
-* **Nombre:** Andea Valentina Rivera fernández
+* **Nombre:** Andrea Valentina Rivera Fernández
+* **Código:** 1152444
 * **Institución:** Universidad Francisco de Paula Santander (UFPS)
+* **Carrera:** Ingeniería de Sistemas
 * **Materia:** Arquitectura de Computadores
-* **Fecha:** Abril, 2026
-
+* **Unidad:** 8 - Post-Contenido 2
+* **Año:** 2026
+  
 ## Objetivos
 * Implementar aritmética de precisión múltiple de 32 bits utilizando las instrucciones `ADC` y `SBB`.
 * Realizar operaciones en formato BCD empaquetado utilizando los ajustes decimales `DAA` y `DAS`.
